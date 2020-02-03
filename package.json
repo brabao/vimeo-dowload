@@ -1,0 +1,14 @@
+{
+  "name": "vimeo-download",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "sucrase-node index.js"
+  },
+  "dependencies": {
+    "atob": "^2.1.2",
+    "axios": "^0.19.2",
+    "sucrase": "^3.12.1"
+  }
+}
